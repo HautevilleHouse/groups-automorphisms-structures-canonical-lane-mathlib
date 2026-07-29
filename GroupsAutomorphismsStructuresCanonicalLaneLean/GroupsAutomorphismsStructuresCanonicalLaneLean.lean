@@ -1,0 +1,12 @@
+import HautevilleHouse.GroupsAutomorphismsStructuresCanonicalLaneLean.AdmissibleClass
+import HautevilleHouse.GroupsAutomorphismsStructuresCanonicalLaneLean.BridgeLemmas
+import HautevilleHouse.GroupsAutomorphismsStructuresCanonicalLaneLean.GateLemmas
+import HautevilleHouse.GroupsAutomorphismsStructuresCanonicalLaneLean.FinalTheorem
+
+namespace HautevilleHouse
+namespace GroupsAutomorphismsStructuresCanonicalLaneLean
+
+-- Root file: aggregates all package modules
+
+end GroupsAutomorphismsStructuresCanonicalLaneLean
+end HautevilleHouse
